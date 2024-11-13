@@ -9,6 +9,8 @@ redirect_from:
 
 You can get to know me here, so please start your explorations.
 
+Here are some of my basic information
+
  | Chinese name | Wang Bowen  
  |English name| Winnie 
  |Gender  | girl 
