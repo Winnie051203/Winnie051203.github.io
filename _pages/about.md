@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my website!
 # 👋🏻
 You can get to know me here, so please start your explorations.
 
