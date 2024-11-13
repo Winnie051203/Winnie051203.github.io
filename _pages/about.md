@@ -21,6 +21,5 @@ Here are some of my basic information
 🎃 | Email |2483257964@qq.com
 ☎️ | Phone |17765964918
 📗 | WeChat  |  WBWen1203
-🎵 | Tik Tok |  [Personal account](https://www.douyin.com/user/MS4wLjABAAAAb1N4wY2ivDM088G9p62Fk2osm4pr0r52u4lZzJuSPks?from_tab_name=main):26265892 
-                         [Star follower account](https://www.douyin.com/user/MS4wLjABAAAAseFvEtXD_FyiSAYOafUUI4TgabOWmcsJje_cthzsocZXykVoyUKp6gtNQKRUXQz1?from_tab_name=main):79603127182
+🎵 | Tik Tok |  [Personal account](https://www.douyin.com/user/MS4wLjABAAAAb1N4wY2ivDM088G9p62Fk2osm4pr0r52u4lZzJuSPks?from_tab_name=main):26265892/[Star follower account](https://www.douyin.com/user/MS4wLjABAAAAseFvEtXD_FyiSAYOafUUI4TgabOWmcsJje_cthzsocZXykVoyUKp6gtNQKRUXQz1?from_tab_name=main):79603127182
 📕 | [Little Red Book](https://www.xiaohongshu.com/search_result?keyword=394043340&source=web_explore_feed) | 394043340
