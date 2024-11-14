@@ -1,14 +1,7 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
+# Watch movies and binge-watching
+I like to watch movies and TV plays in my spare time to kill time.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+ - [ ] [Eternal Night Star River](https://baike.baidu.com/item/%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3/63111838)
+ - [ ] [Da Meng Gui Li](https://baike.baidu.com/item/%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB/63522293)
+ - [ ] [Country love story](https://baike.baidu.com/item/%E4%B9%A1%E6%9D%91%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B/8463952)
