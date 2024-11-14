@@ -21,7 +21,7 @@ repository               : "Winnie051203/Winnie051203.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/imgs/2024-11-14/vrLt1hqxslSnN2uT.jpeg"
   name             : "Wang Bowen"
   pronouns         : # example: "she/her"  
   bio              : "Gold medalist in Internet surfing"
