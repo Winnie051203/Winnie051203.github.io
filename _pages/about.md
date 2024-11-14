@@ -17,6 +17,7 @@ Here are some of my basic information
 👧 |Gender  | girl 
 🫣 |Date of birth | 2005.12.03 
 🎆 | Age | 18 
+🏝️ |Mbti| ENFJ
 🌍️ | Location | Taipa, Macau, China
 🎃 | Email |2483257964@qq.com
 ☎️ | Phone |17765964918
